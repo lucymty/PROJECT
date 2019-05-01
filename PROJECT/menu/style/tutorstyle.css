@@ -1,0 +1,128 @@
+.middle-section {
+    
+    
+    width: 100%;
+    height: 900px;
+    margin: 20px;
+   
+}
+
+.middle-column {
+    
+    width: 75%;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow:0 1px 15px; 
+    height: 100%;
+    margin: 0 auto;
+    
+}
+
+#profile-pic {
+    background-color: mediumvioletred;
+    width: 240px;
+    height: 240px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 40px;
+
+    
+}
+
+#profile-header {
+    
+    width: 70%;
+    height: 260px;
+    float: right;
+    padding: 20px 10px;
+   
+}
+
+#profile-name {
+    width: 100%;
+    height: 30%;
+    text-align: left;
+    float: left;
+    border-bottom: solid;  
+    
+}
+
+#profile-info {
+   
+    width: 100%;
+    height: 50%;
+    float: right;
+    
+}
+
+#profile-rating {
+    width: 45%;
+    height: 100%;
+    text-align: left;
+    float: left;
+      
+}
+
+#profile-skills {
+    width: 100%;
+    height: 100%;
+    float: right;
+}
+
+/*rating*/
+.checked {
+  color: salmon;
+}
+
+#profile-city {
+    width: 55%;
+    height: 30%;
+    float: right;   
+
+}
+
+/*profile menu*/
+
+#profile-menu {
+    width: 100%;
+    height: 400px;
+    float: right;
+   
+}
+
+#prof-menu-icons {
+    width: 60%;
+    height: 100%;   
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 60px
+    
+}
+
+#reg-menu-icons {
+    width: 60%;
+    height: 100%;   
+    margin: 0 auto;
+    padding: 30px;
+    
+}
+
+#menu-p {
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    box-shadow:0 1px 15px;
+    
+    
+}
+
+#student-profile-city {
+    float: right;
+}
+
+#std-profile-city {
+    width: 55%;
+    height: 30%;
+    float: left;   
+
+}
